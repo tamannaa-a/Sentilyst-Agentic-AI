@@ -82,4 +82,4 @@ st.header("Step 5: Download Results")
 csv = df.to_csv(index=False).encode("utf-8")
 st.download_button("📥 Download Sentiment Results", csv, "sentilyst_results.csv", "text/csv")
 
-st.success("Done! You’ve built and deployed an intelligent sentiment forecasting app.")
+
