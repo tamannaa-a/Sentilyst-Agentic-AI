@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+torchvision
+torchaudio
+sentencepiece
+pandas
+numpy
+plotly
+prophet
+scikit-learn
